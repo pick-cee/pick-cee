@@ -1,4 +1,4 @@
-                                                         Hi 🖐🏾, I am AKinloluwa Olumuyide
+                                  Hi 🖐🏾, I am AKinloluwa Olumuyide
                                                          
 I am a backend developer( Node.js, Express.js, C# ). I have always really liked knowing how things work in the backend of applications, hence my passion in this field.
 
