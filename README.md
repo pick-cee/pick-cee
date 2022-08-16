@@ -4,7 +4,7 @@ I am a backend developer( Node.js, Express.js, C# ). I have always really liked 
 
 ◾ 🔭 I am currently learning Python and Django and trying to incorporate these technologies into my stack.
 
-◾ 🌱 I am currently learning Blockchain development. 
+◾ 🌱 I am intrigued by the idea of Web3 and actively learning Smart contract development with solidity
 
 ◾ 📫 How to reach me: akinloluwaolumuyide@gmail.com, +2348186513024.
 
