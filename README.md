@@ -1,4 +1,4 @@
-                                  Hi 🖐🏾, I am AKinloluwa Olumuyide
+<h1 align="center"> Hi 🖐🏾, I am AKinloluwa Olumuyide</h1>
                                                         
 I am a backend developer( Node.js, Express.js, C# ). I have always really liked knowing how things work in the backend of applications, hence my passion in this field.
 
@@ -11,5 +11,28 @@ I am a backend developer( Node.js, Express.js, C# ). I have always really liked 
 ◾ 📄 Know about my experiences [https://drive.google.com/file/d/1zL6INNPbi3yf44YRlzoUXrt1c2y4vD5e/view?usp=sharing.](https://drive.google.com/file/d/1Lqo6FzhGDqzP5fcjdlMyA367HbHtgl3O/view?usp=sharing)
 
 ◾ ⚡ Fun fact: I think I am funny and playful. I am enthusiastic and eager learner 😁.
+<br></br>
 
+### Technology stack:
 
+<img src="https://img.shields.io/badge/-Node.js-339933?style=round-square&logo=Node.js&logoColor=black" alt="Node.js" align= "left " width= "80"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Railway-131415?style=round-squarefor-the-badge&logo=railway&logoColor=black" alt="Railway" width = "90" align ="left "/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=round-squarefor-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" width = "90" align ="left "/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=round-squarefor-the-badge&logo=mysql&logoColor=black
+" alt="MySQL" width = "75" align ="left "/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=round-squarefor-the-badge&logo=postgresql&logoColor=black
+" alt="PostgreSQL" width = "100" align ="left "/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=black" alt="Express" width = "100" align ="left "/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=round-squarefor-the-badge&logo=c-sharp&logoColor=black
+" alt="C#" width = "" height ="25" align ="left "/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=round-squarefor-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width = "105" height ="" align ="left "/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=round-squarefor-the-badge&logo=typescript&logoColor=black
+" alt="TypeScript" width = "105" height ="" align ="left "/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-FFD43B?style=round-squarefor-the-badge&logo=python&logoColor=blue" alt="Python" width = "85" height ="" align ="left "/>&nbsp;&nbsp;
+
+### Statistics:
+
+<div align-items="left" justify-content = "center" display="inline-block">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pick-cee&layout=compact&theme=radical" alt="pick-cee" align="left " width="400" height="200" display="inline-block" /><br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=pick-cee&show_icons=true&theme=radical" alt="pick-cee" align="left " width="400" height="300" />
+</div>
