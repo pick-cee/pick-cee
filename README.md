@@ -15,7 +15,13 @@ I am a backend developer( Node.js, Express.js, C# ). I have always really liked 
 
 ### Technology stack:
 
-<img src="https://img.shields.io/badge/-Node.js-339933?style=round-square&logo=Node.js&logoColor=black" alt="Node.js" align= "left " width= "80"/> &nbsp;&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,cs,express,mongodb,mysql,nestjs,nodejs,postgres,py,aws" />
+  </a>
+</p>
+
+<!-- <img src="https://img.shields.io/badge/-Node.js-339933?style=round-square&logo=Node.js&logoColor=black" alt="Node.js" align= "left " width= "80"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Railway-131415?style=round-squarefor-the-badge&logo=railway&logoColor=black" alt="Railway" width = "90" align ="left "/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=round-squarefor-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" width = "90" align ="left "/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-005C84?style=round-squarefor-the-badge&logo=mysql&logoColor=white
@@ -27,7 +33,7 @@ I am a backend developer( Node.js, Express.js, C# ). I have always really liked 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=round-squarefor-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width = "105" height ="" align ="left "/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=round-squarefor-the-badge&logo=typescript&logoColor=white
 " alt="TypeScript" width = "105" height ="" align ="left "/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-FFD43B?style=round-squarefor-the-badge&logo=python&logoColor=blue" alt="Python" width = "85" height ="" align ="left "/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-FFD43B?style=round-squarefor-the-badge&logo=python&logoColor=blue" alt="Python" width = "85" height ="" align ="left "/>&nbsp;&nbsp; -->
 
 ### Statistics:
 
