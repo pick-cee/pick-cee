@@ -39,4 +39,3 @@ I am a backend developer( Node.js, Express.js, C# ). I have always really liked 
 
 <div align-items="left" justify-content = "center" display="inline-block">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pick-cee&layout=compact&theme=radical" alt="pick-cee" align="left " width="400" height="200" display="inline-block" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=pick-cee&show_icons=true&theme=radical" alt="pick-cee" align="left " width="400" height="300" /></div>
