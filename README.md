@@ -17,7 +17,7 @@ I am a backend developer( Node.js, Express.js, C# ). I have always really liked 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,cs,express,mongodb,mysql,nestjs,nodejs,postgres,py,aws,redis,rabbitmq,postman,graphql" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,cs,express,mongodb,mysql,nestjs,nodejs,postgres,py,aws,redis,rabbitmq,postman,graphql&perline=10" />
   </a>
 </p>
 
