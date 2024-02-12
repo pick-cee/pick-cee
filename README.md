@@ -1,16 +1,14 @@
 <h1 align="center"> Hi 🖐🏾, I am Akinloluwa Olumuyide</h1>
                                                         
-I am a backend developer( Node.js, Express.js, C# ). I have always really liked knowing how things work in the backend of applications, hence my passion in this field.
+I am a backend developer( Node.js, Express.js ) as well as  a Cybersecurity Professional(Pentester, Application security, Information security).
 
-◾ 🔭 I am currently learning Python and Django and trying to incorporate these technologies into my stack.
+◾ 🔭 I am currently learning Python to aid in the development of relevant security tools.
 
-◾ 🌱 I am intrigued by the idea of Web3 and actively learning Smart contract development with solidity
+◾ 🌱 I am intrigued by the growth in the cybersecurity field. Actively taking courses and certifactes to ease my transition into the field.
 
-◾ 📫 How to reach me: akinloluwaolumuyide@gmail.com, +2348186513024.
+◾ 📫 How to reach me: akinloluwaolumuyide@gmail.com.
 
-◾ 📄 Know about my experiences [https://drive.google.com/file/d/1qrYkjau-vgubh4FEZiDGosdSTOp8Udrw/view?usp=sharing.](https://drive.google.com/file/d/1qrYkjau-vgubh4FEZiDGosdSTOp8Udrw/view?usp=sharing)
-
-◾ ⚡ Fun fact: I think I am funny and playful. I am enthusiastic and eager learner 😁.
+◾ ⚡ Fun fact: I love football not soccer :).
 <br></br>
 
 ### Technology stack:
