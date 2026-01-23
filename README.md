@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 🖐🏾, I am Akinloluwa Olumuyide</h1>
                                                         
-I am a backend developer( Node.js, Express.js ) as well as  a Cybersecurity Professional(Pentester, Application security, Information security).
+I am a backend developer( Node.js, Express.js, Golang ) as well as  a Cybersecurity Professional(Pentester, Application security, Information security).
 
 ◾ 🔭 I am currently learning Python to aid in the development of relevant security tools.
 
@@ -15,7 +15,7 @@ I am a backend developer( Node.js, Express.js ) as well as  a Cybersecurity Prof
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,cs,express,mongodb,mysql,nestjs,nodejs,postgres,py,aws,redis,rabbitmq,postman,graphql&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,cs,express,mongodb,mysql,nestjs,nodejs,postgres,py,aws,redis,rabbitmq,postman,graphql,go&perline=10" />
   </a>
 </p>
 
