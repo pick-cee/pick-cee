@@ -1,39 +1,44 @@
-<h1 align="center"> Hi 🖐🏾, I am Akinloluwa Olumuyide</h1>
-                                                        
-I am a backend developer( Node.js, Express.js ) as well as  a Cybersecurity Professional(Pentester, Application security, Information security).
-
-◾ 🔭 I am currently learning Python to aid in the development of relevant security tools.
-
-◾ 🌱 I am intrigued by the growth in the cybersecurity field. Actively taking courses and certifactes to ease my transition into the field.
-
-◾ 📫 How to reach me: akinloluwaolumuyide@gmail.com.
-
-◾ ⚡ Fun fact: I love football not soccer :).
-<br></br>
-
-### Technology stack:
+<h1 align="center">Hi there 👋🏾, I'm Akinloluwa</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,cs,express,mongodb,mysql,nestjs,nodejs,postgres,py,aws,redis,rabbitmq,postman,graphql&perline=10" />
+  <a href="https://akinloluwa.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Forward+Deployed+Engineer;I+build+the+backends+products+stand+on;and+AI+systems+that+still+work+after+the+demo" alt="Software Engineer | Forward Deployed Engineer. I build the backends products stand on, and AI systems that still work after the demo." />
   </a>
 </p>
 
-<!-- <img src="https://img.shields.io/badge/-Node.js-339933?style=round-square&logo=Node.js&logoColor=black" alt="Node.js" align= "left " width= "80"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Railway-131415?style=round-squarefor-the-badge&logo=railway&logoColor=black" alt="Railway" width = "90" align ="left "/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=round-squarefor-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" width = "90" align ="left "/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=round-squarefor-the-badge&logo=mysql&logoColor=white
-" alt="MySQL" width = "75" align ="left "/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=round-squarefor-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width = "100" align ="left "/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=round-squarefor-the-badge&logo=express&logoColor=black" alt="Express" width = "100" align ="left "/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C%23-239120?style=round-squarefor-the-badge&logo=c-sharp&logoColor=white
-" alt="C#" width = "" height ="25" align ="left "/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=round-squarefor-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width = "105" height ="" align ="left "/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=round-squarefor-the-badge&logo=typescript&logoColor=white
-" alt="TypeScript" width = "105" height ="" align ="left "/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-FFD43B?style=round-squarefor-the-badge&logo=python&logoColor=blue" alt="Python" width = "85" height ="" align ="left "/>&nbsp;&nbsp; -->
+- 💼 Backend developer at **Metaverse Magna**
+- 🚀 Co-founder and CTO at **Gethsemane Tech**, home of [Klina](https://getklina.app) 🧹, [Brinlow](https://brinlow.com) 📊 and [metriq.studio](https://metriq.studio) 🛠️
+- 🌐 Portfolio: [akinloluwa.dev](https://akinloluwa.dev)
+- 📫 Reach me: akinloluwaolumuyide@gmail.com or [LinkedIn](https://www.linkedin.com/in/akinloluwa-olumuyide/)
+- ⚽ Off the clock: Barcelona, and Mercedes and Ferrari in F1 🏎️
 
-### Statistics:
+### 🧰 Tools I use
 
-<div align-items="left" justify-content = "center" display="inline-block">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pick-cee&layout=compact&theme=radical" alt="pick-cee" align="left " width="400" height="200" display="inline-block" /></div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,nestjs,express,graphql,nextjs,vue,postgres,mysql,mongodb,redis,supabase,rabbitmq,docker,aws,vercel,cloudflare,githubactions,git,github,postman&perline=12" alt="TypeScript, JavaScript, Python, C#, Node.js, NestJS, Express, GraphQL, Next.js, Vue, PostgreSQL, MySQL, MongoDB, Redis, Supabase, RabbitMQ, Docker, AWS, Vercel, Cloudflare, GitHub Actions, Git, GitHub, Postman" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+### 🐍 My commits, eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pick-cee/pick-cee/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pick-cee/pick-cee/output/github-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/pick-cee/pick-cee/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pick-cee&theme=dark&hide_border=true&background=0D111700" />
+    <img alt="My GitHub commit streak" src="https://streak-stats.demolab.com?user=pick-cee&hide_border=true&background=FFFFFF00" />
+  </picture>
+</p>
